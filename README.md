@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryantayburn, a Principal Product Manager
 - 👀 I’m interested in Product Management
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m working on a budgeting app, gardening app and a new social media for designers.
+- 🌱 I’m currently learning HTML, CSS, Javascript, SQL, PostgreSQL, Express.JS, React, Node.JS, TDD and API's to bring my ideas to life with code.
+- 💞️ I’m working on a finance budgeting app, gardening app and a new social media for designers.
 - 📫 ryantayburn@googlemail.com
 
 <!---
